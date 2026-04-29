@@ -1,5 +1,5 @@
 
 fun main() {
-    val numb = 5
-    println("$numb x 1 = ${numb * 1}\n$numb x 2 = ${numb * 2}\n$numb x 3 = ${numb * 3}\n$numb x 4 = ${numb * 4}\n$numb x 5 = ${numb * 5}\n$numb x 6 = ${numb * 6}\n$numb x 7 = ${numb * 7}\n$numb x 8 = ${numb *8 }\n$numb x 9 = ${numb * 9}")
+    val number = 5
+    println("$number x 1 = ${number * 1}\n$number x 2 = ${number * 2}\n$number x 3 = ${number * 3}\n$number x 4 = ${number * 4}\n$number x 5 = ${number * 5}\n$number x 6 = ${number * 6}\n$number x 7 = ${number * 7}\n$number x 8 = ${number * 8}\n$number x 9 = ${number * 9}")
 }
